@@ -1,0 +1,19 @@
+{
+  "name": "prueba_flutter_backend",
+  "version": "1.0.0",
+  "description": "Backend for Login",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon index.js"
+  },
+  "author": "Oscar Navas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mocha": "^10.4.0",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0"
+  }
+}
